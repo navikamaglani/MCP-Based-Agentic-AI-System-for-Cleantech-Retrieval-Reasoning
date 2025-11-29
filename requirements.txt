@@ -1,0 +1,19 @@
+fastmcp==0.3.0
+
+# LangChain ecosystem (compatible versions)
+langchain==0.2.12
+langchain-core==0.2.23
+langchain-community==0.2.11
+langchain-huggingface==0.2.0
+langchain-chroma==0.1.4
+
+# Vector DB + Embedding stack
+chromadb==0.5.0
+sentence-transformers==2.7.0
+huggingface-hub==0.23.0
+
+# Utilities
+anyio==4.3.0
+pydantic==2.7.1
+numpy
+pandas
